@@ -14,7 +14,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.build.version>1.8</java.build.version>
-    <java.build.vendor>Oracle Corporation</java.build.vendor>
+    <java.build.vendor>zulu</java.build.vendor>
   </properties>
   
   <distributionManagement>
